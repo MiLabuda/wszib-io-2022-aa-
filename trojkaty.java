@@ -18,7 +18,7 @@ class Trojkaty {
          * Główna funkcja programu.
          * @param {float} a - Długość pierwszego boku.
          * @param {float} b - Długość drugiego boku.
-         * @param {float} c - Długość trzeciego boku.
+         * @param {float} c - Długość trzeciego boku...
          */
     }
     public static void jakiTrojkat(float a, float b, float c){
